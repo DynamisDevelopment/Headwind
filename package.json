@@ -1,0 +1,24 @@
+{
+  "name": "headwindcss",
+  "version": "1.0.0",
+  "description": "An alternate version of Tailwind CSS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DynamisDevelopment/Headwind.git"
+  },
+  "keywords": [
+    "tailwind",
+    "headwind",
+    "css",
+    "framework",
+    "design",
+    "scss",
+    "sass"
+  ],
+  "author": "Dynamis Development",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DynamisDevelopment/Headwind/issues"
+  },
+  "homepage": "https://github.com/DynamisDevelopment/Headwind#readme"
+}
