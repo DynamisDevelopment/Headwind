@@ -5,7 +5,7 @@
 
 Since the smalled breakpoint I generally design for is 350px, it made sense to change `sm` to something a bit more useful.
 
-* `sm` - 350px 
+* `sm` - 320px 
 * `md` - 650px 
 * `lg` - 1024px
 * `xl` - 1280px
